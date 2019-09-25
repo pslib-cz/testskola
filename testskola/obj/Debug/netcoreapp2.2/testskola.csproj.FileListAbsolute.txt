@@ -1,0 +1,11 @@
+c:\users\tomínfilip\source\repos\testskola\testskola\bin\Debug\netcoreapp2.2\testskola.deps.json
+c:\users\tomínfilip\source\repos\testskola\testskola\bin\Debug\netcoreapp2.2\testskola.runtimeconfig.json
+c:\users\tomínfilip\source\repos\testskola\testskola\bin\Debug\netcoreapp2.2\testskola.runtimeconfig.dev.json
+c:\users\tomínfilip\source\repos\testskola\testskola\bin\Debug\netcoreapp2.2\testskola.dll
+c:\users\tomínfilip\source\repos\testskola\testskola\bin\Debug\netcoreapp2.2\testskola.pdb
+c:\users\tomínfilip\source\repos\testskola\testskola\obj\Debug\netcoreapp2.2\testskola.csprojAssemblyReference.cache
+c:\users\tomínfilip\source\repos\testskola\testskola\obj\Debug\netcoreapp2.2\testskola.csproj.CoreCompileInputs.cache
+c:\users\tomínfilip\source\repos\testskola\testskola\obj\Debug\netcoreapp2.2\testskola.AssemblyInfoInputs.cache
+c:\users\tomínfilip\source\repos\testskola\testskola\obj\Debug\netcoreapp2.2\testskola.AssemblyInfo.cs
+c:\users\tomínfilip\source\repos\testskola\testskola\obj\Debug\netcoreapp2.2\testskola.dll
+c:\users\tomínfilip\source\repos\testskola\testskola\obj\Debug\netcoreapp2.2\testskola.pdb

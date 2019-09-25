@@ -1,0 +1,11 @@
+C:\Users\filip\Downloads\2019-P3-uvodni-test-p3-tomin-master\2019-P3-uvodni-test-p3-tomin-master\testskola\testskola\bin\Debug\netcoreapp2.0\testskola.deps.json
+C:\Users\filip\Downloads\2019-P3-uvodni-test-p3-tomin-master\2019-P3-uvodni-test-p3-tomin-master\testskola\testskola\bin\Debug\netcoreapp2.0\testskola.runtimeconfig.json
+C:\Users\filip\Downloads\2019-P3-uvodni-test-p3-tomin-master\2019-P3-uvodni-test-p3-tomin-master\testskola\testskola\bin\Debug\netcoreapp2.0\testskola.runtimeconfig.dev.json
+C:\Users\filip\Downloads\2019-P3-uvodni-test-p3-tomin-master\2019-P3-uvodni-test-p3-tomin-master\testskola\testskola\bin\Debug\netcoreapp2.0\testskola.dll
+C:\Users\filip\Downloads\2019-P3-uvodni-test-p3-tomin-master\2019-P3-uvodni-test-p3-tomin-master\testskola\testskola\bin\Debug\netcoreapp2.0\testskola.pdb
+C:\Users\filip\Downloads\2019-P3-uvodni-test-p3-tomin-master\2019-P3-uvodni-test-p3-tomin-master\testskola\testskola\obj\Debug\netcoreapp2.0\testskola.csprojAssemblyReference.cache
+C:\Users\filip\Downloads\2019-P3-uvodni-test-p3-tomin-master\2019-P3-uvodni-test-p3-tomin-master\testskola\testskola\obj\Debug\netcoreapp2.0\testskola.csproj.CoreCompileInputs.cache
+C:\Users\filip\Downloads\2019-P3-uvodni-test-p3-tomin-master\2019-P3-uvodni-test-p3-tomin-master\testskola\testskola\obj\Debug\netcoreapp2.0\testskola.AssemblyInfoInputs.cache
+C:\Users\filip\Downloads\2019-P3-uvodni-test-p3-tomin-master\2019-P3-uvodni-test-p3-tomin-master\testskola\testskola\obj\Debug\netcoreapp2.0\testskola.AssemblyInfo.cs
+C:\Users\filip\Downloads\2019-P3-uvodni-test-p3-tomin-master\2019-P3-uvodni-test-p3-tomin-master\testskola\testskola\obj\Debug\netcoreapp2.0\testskola.dll
+C:\Users\filip\Downloads\2019-P3-uvodni-test-p3-tomin-master\2019-P3-uvodni-test-p3-tomin-master\testskola\testskola\obj\Debug\netcoreapp2.0\testskola.pdb
